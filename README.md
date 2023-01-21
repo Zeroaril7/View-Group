@@ -1,2 +1,3 @@
-[Screenshot (1692)](https://user-images.githubusercontent.com/90768772/213840287-20d9cc06-b674-44f5-9369-146ba6c059c4.png)
-[Screenshot (1693)](https://user-images.githubusercontent.com/90768772/213840296-c9fa7dd7-f3ec-48a3-9502-b9e2b6100c3a.png)
+![Screenshot (1692)](https://user-images.githubusercontent.com/90768772/213840331-b54cbbd8-c6ec-4083-ac0f-a5b6a1b163e9.png)
+
+![Screenshot (1693)](https://user-images.githubusercontent.com/90768772/213840334-1327f6cc-ec40-4484-b4f4-7443262628e4.png)
